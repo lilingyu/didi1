@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444955466 source:/Users/lilingyu1/Documents/acmtest/hello/main.cpp
+	<iostream>
+	<string.h>
+
